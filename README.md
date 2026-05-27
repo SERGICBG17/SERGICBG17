@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=SERGIO%20CASÍN&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Técnico%20Superior%20DAM%20·%20Full%20Stack%20·%20Mobile%20·%20Sistemas%20Distribuidos&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=SERGIO%20CASÍN&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=T%C3%A9cnico%20Superior%20en%20DAM%20%C2%B7%20Backend%20%C2%B7%20Mobile%20%C2%B7%20Sistemas%20Distribuidos%20%C2%B7%20Videojuegos&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=860&lines=DAM+%C2%B7+Full+Stack+%C2%B7+Sistemas+Distribuidos;Spring+Boot+%7C+.NET+MAUI+%7C+FastAPI;Kotlin+%7C+Android+%7C+Firebase;Docker+%7C+PostgreSQL+%7C+MongoDB;Java+%7C+C%23+%7C+Python+%7C+JavaScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=860&lines=Full+Stack+%C2%B7+Mobile+%C2%B7+Sistemas+Distribuidos;Java+%7C+C%23+%7C+Python+%7C+Kotlin+%7C+JavaScript;Spring+Boot+%7C+.NET+MAUI+%7C+FastAPI+%7C+Unity;MySQL+%7C+PostgreSQL+%7C+MongoDB+%7C+Firebase;Docker+%7C+Nginx+%7C+AWS+%7C+Azure+%7C+Git;APIs+REST+%7C+JWT+%7C+Swagger+%7C+Microservicios;Android+%7C+iOS+%7C+Windows+%7C+Multiplataforma;Videojuegos+2D+%7C+Unity+%7C+Pixel+Art" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/VER_PORTFOLIO_WEB-3b82f6?style=for-the-badge&logoColor=white)](https://sergicbg17.github.io/SERGICBG17/)
 &nbsp;
@@ -19,6 +19,9 @@ Técnico Superior en DAM con experiencia en desarrollo de aplicaciones
 empresariales, sistemas distribuidos y móviles. Trabajo con múltiples
 tecnologías de backend y frontend, desarrollando proyectos completos
 desde aplicaciones de escritorio hasta sistemas web y móviles.
+
+TFG: Ibermon — RPG 2D completo con API REST propia, portal web con chatbot
+y simulador de combate, todo desplegado en producción con Docker + Nginx.
 ```
 
 ---
@@ -63,6 +66,21 @@ desde aplicaciones de escritorio hasta sistemas web y móviles.
 
 <table>
 <tr>
+<td colspan="2">
+
+### Ibermon — TFG
+[![Juego Unity](https://img.shields.io/badge/Juego_Unity-3b82f6?style=flat-square&logo=github&logoColor=white)](https://github.com/SERGICBG17/TFGDAM)
+[![API REST](https://img.shields.io/badge/API_REST-10b981?style=flat-square&logo=github&logoColor=white)](https://github.com/SERGICBG17/ApiIbermon)
+[![Portal Web](https://img.shields.io/badge/Portal_Web-f59e0b?style=flat-square&logo=github&logoColor=white)](https://github.com/Daaviidzz/ParteFrontTFG)
+[![Documentación](https://img.shields.io/badge/Documentación-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/SERGICBG17/TFGDAM)
+
+RPG 2D de captura y combate de criaturas ambientado en la Comunidad de Madrid. Proyecto completo desarrollado en equipo: juego en Unity con combates por turnos, captura de Ibermons y soporte Android; API REST propia con autenticación JWT y Swagger UI; portal web con Pokédex, chatbot IberBot (Regex + Levenshtein + LLM) y simulador de combate 6vs6 entre pestañas con BroadcastChannel. Todo desplegado en producción con Docker + Nginx.
+
+`Unity` `C#` `FastAPI` `MongoDB` `Docker` `Nginx` `JavaScript` `HTML5` `CSS3`
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### Portfolio Personal Web
@@ -80,6 +98,8 @@ CV web interactivo con panel de administración CRUD completo, Spring Security y
 [![Desktop WPF](https://img.shields.io/badge/Desktop_WPF-3b82f6?style=flat-square&logo=github&logoColor=white)](https://github.com/SERGICBG17/AppGestionDeEmpleados)
 [![Multiplataforma](https://img.shields.io/badge/Multiplataforma_MAUI-10b981?style=flat-square&logo=github&logoColor=white)](https://github.com/SERGICBG17/AppGestionEmpleadosII)
 [![Backend API](https://img.shields.io/badge/Backend_API-f59e0b?style=flat-square&logo=github&logoColor=white)](https://github.com/SERGICBG17/ApiEmpleados)
+
+Ecosistema completo: aplicación de escritorio WPF, versión multiplataforma .NET MAUI y backend FastAPI con PostgreSQL y Docker.
 
 `C#` `.NET MAUI` `FastAPI` `PostgreSQL` `Docker`
 
@@ -113,7 +133,7 @@ Sistema distribuido cliente-servidor con UDP, TCP y Multicast.
 ### Demo Ibermon
 [![Ver Repositorio](https://img.shields.io/badge/Ver_Repositorio-3b82f6?style=flat-square&logo=github&logoColor=white)](https://github.com/SERGICBG17/DemoIbermon)
 
-Videojuego 2D desarrollado en Unity / C#.
+Videojuego 2D desarrollado en Unity / C#. Demo funcional que sirvió de base para el TFG completo.
 
 `Unity` `C#` `Game Dev`
 
@@ -140,7 +160,8 @@ Simulador con concurrencia y semáforos.
 [ + ]  Desarrollo de aplicaciones multiplataforma (Windows, Android, iOS, macOS)
 [ + ]  Gestión de bases de datos relacionales y NoSQL
 [ + ]  Programación concurrente y sistemas distribuidos
-[ + ]  Dockerización de aplicaciones
+[ + ]  Dockerización y despliegue de aplicaciones en producción
+[ + ]  Desarrollo de videojuegos 2D con Unity
 [ + ]  Patrones de diseño: MVVM, MVC, MVP
 [ + ]  Active Directory — gestión de usuarios, grupos y políticas
 ```
@@ -151,7 +172,7 @@ Simulador con concurrencia y semáforos.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=100&section=footer" width="100%"/>
 
-**Técnico Superior en DAM · Full Stack · Mobile · Sistemas Distribuidos**
+**Técnico Superior en DAM · Backend · Mobile · Sistemas Distribuidos · Videojuegos**
 
 [![Portfolio](https://img.shields.io/badge/VER_PORTFOLIO-3b82f6?style=for-the-badge)](https://sergicbg17.github.io/SERGICBG17/)
 
