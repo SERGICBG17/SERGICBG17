@@ -164,7 +164,7 @@ body {
 .exp-box    { grid-column: span 5; grid-row: span 2; }
 .edu-box    { grid-column: span 4; }
 .proj-box   { grid-column: span 4; }
-.contact-box{ grid-column: span 4; }
+.contact-box{ grid-column: span 12; }
 
 /* Experiencia laboral — ocupa toda la fila */
 .work-box { grid-column: span 12; }
@@ -262,7 +262,7 @@ body {
 }
 
 /* CONTACT */
-.contact-list { display: flex; flex-direction: column; gap: 14px; margin-top: 8px; }
+.contact-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 14px; margin-top: 8px; }
 .contact-item {
     display: flex; align-items: center; gap: 12px;
     padding: 10px 14px; border: 1px solid var(--border);
